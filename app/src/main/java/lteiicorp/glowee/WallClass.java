@@ -3,6 +3,8 @@ package lteiicorp.glowee;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
+//qgqhdfhdfhdfhd
+
 public class WallClass {
     int WIDTH;
     int HEIGHT;
